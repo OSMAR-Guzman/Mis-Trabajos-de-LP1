@@ -10,6 +10,7 @@
         cliente2 = new Cliente("sofia");
         cliente3 = new Cliente("juan");
     }
+    
     public void operar() {
         cliente1.depositar(50000);
         cliente2.depositar(150000);
